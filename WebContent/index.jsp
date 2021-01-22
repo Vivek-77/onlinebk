@@ -39,7 +39,7 @@ String dt=String.valueOf(cal.getTime());
 <br>
 <a href="TakeChoice.html">Test Cookies</a>
 <br><br>
-<a href="NewUser.html">New User? Register Now.</a> | 
+<a href="NewUser.html">New User? Registertion Now...</a> | 
 <a href="About">About us</a> | 
 <a href="AccountsList">List of account holders</a>
 </body>
