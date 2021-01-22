@@ -1,0 +1,14 @@
+create table users
+(
+userid varchar(20) primary key,
+pswd varchar(30) not null,
+usernm varchar(50),
+age int,
+gender varchar(10),
+mobile varchar(10),
+emailid varchar(30),
+city varchar(20),
+usertype varchar(10) default 'customer',
+secques varchar(100),
+answer varchar(50)
+);
